@@ -258,8 +258,8 @@ Kaggle: (https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 If you're hiring for SQL/Data Analyst roles or interested in collaboration, feel free to connect.
 
-🔗 **LinkedIn:** [https://www.linkedin.com/in/**your-username](https://www.linkedin.com/in/sachinbodke432)**
-🔗 **GitHub:** [https://github.com/**your-username](https://github.com/BodkeSachin7979/SQL_DATA_ANALYSIS)**
+🔗 **LinkedIn:(https://www.linkedin.com/in/sachinbodke432)
+🔗 **GitHub:(https://github.com/BodkeSachin7979/SQL_DATA_ANALYSIS)
 
----
+
 
