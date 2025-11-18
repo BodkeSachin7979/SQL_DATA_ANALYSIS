@@ -246,11 +246,10 @@ Use these links in your GitHub repo or LinkedIn post:
 
 Kaggle: (https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-### **Project Presentation Deck (Optional but Powerful)**
 
 ### **SQL Notebook / .sql File (Recommended)**
 
-👉 Add link: `sql/netflix_analysis.sql`
+👉 Add link: `https://github.com/BodkeSachin7979/SQL_DATA_ANALYSIS/new/master/netflix_buisnesss_QA.sql`
 
 
 ---
@@ -259,8 +258,8 @@ Kaggle: (https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 If you're hiring for SQL/Data Analyst roles or interested in collaboration, feel free to connect.
 
-🔗 **LinkedIn:** [https://www.linkedin.com/in/**your-username](https://www.linkedin.com/in/**your-username)**
-🔗 **GitHub:** [https://github.com/**your-username](https://github.com/**your-username)**
+🔗 **LinkedIn:** [https://www.linkedin.com/in/**your-username](https://www.linkedin.com/in/sachinbodke432)**
+🔗 **GitHub:** [https://github.com/**your-username](https://github.com/BodkeSachin7979/SQL_DATA_ANALYSIS)**
 
 ---
 
