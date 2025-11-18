@@ -4,8 +4,7 @@
 
 This project dives deep into Netflix’s catalog using pure SQL. The goal was straightforward: extract insights, solve real business questions, and showcase analytical thinking that aligns with actual data analyst job expectations.
 
-![Netflix Icon](https://imgs.search.brave.com/oJLyfdzggX4p-ny5QkATrO-pUD4mdFEDXM7B5pa6lbQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNDgv/MzMyLzE3Mi9zbWFs/bC9uZXRmbGl4LTNk/LWljb24tZnJlZS1w/bmcucG5n)
-
+![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
 
 ## 🚀 What This Project Demonstrates
 
