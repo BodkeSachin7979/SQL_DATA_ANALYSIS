@@ -6,6 +6,8 @@
 
 A comprehensive SQL data analysis project exploring retail sales data to uncover business insights, customer behavior patterns, and sales performance metrics.
 
+![](https://github.com/BodkeSachin7979/SQL_DATA_ANALYSIS/blob/master/1Retail_sales_analysis/Retail-Analytics.png)
+
 ## 📊 Project Overview
 
 **Project Title**: Retail Sales Analysis  
