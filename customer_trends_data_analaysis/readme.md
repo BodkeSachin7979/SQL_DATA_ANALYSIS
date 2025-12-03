@@ -86,7 +86,7 @@ ORDER BY segment_revenue DESC;
 10. Seasonal purchasing trends and inventory planning
 
 ### **Phase 3: Interactive Dashboard (Power BI)**
-![Dashboard Preview](https://via.placeholder.com/800x400/2c3e50/ffffff?text=Power+BI+Dashboard+Screenshot)
+![Dashboard Preview](https://github.com/BodkeSachin7979/SQL_DATA_ANALYSIS/blob/master/customer_trends_data_analaysis/PowerBi_Dash_Board.png)
 
 **Dashboard Features:**
 - **Executive Summary**: KPI cards for quick insights
@@ -132,37 +132,52 @@ ORDER BY segment_revenue DESC;
 ## 🏗️ **Project Architecture**
 
 ```
-customer-shopping-analytics/
+Customer-Shopping-Behavior-Analytics/
 │
-├── 📁 data/
-│   ├── raw/customer_shopping_data.csv
-│   └── processed/cleaned_data.parquet
+├── 📁 01_documentation/
+│   ├── Business_Problem_Document.pdf
+│   ├── project_charter.md
+│   ├── data_dictionary.md
+│   └── methodology.md
 │
-├── 📁 notebooks/
-│   ├── 01_data_cleaning_eda.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   └── 03_statistical_analysis.ipynb
+├── 📁 02_data/
+│   ├── 📁 00_raw/                  # Original, immutable data
+│   │   └── customer_shopping_behavior.csv
+│   │
+│   ├── 📁 01_interim/              # Intermediate processed data
+│   │   └── (currently empty - for future processing steps)
+│   │
+│   └── 📁 02_processed/            # Final analysis-ready data
+│       └── Customer_Behavior_Analysis_pd_export.csv
 │
-├── 📁 sql/
-│   ├── database_schema.sql
-│   ├── business_queries.sql
-│   └── advanced_analytics.sql
+├── 📁 03_analysis/
+│   ├── 📁 notebooks/
+│   │   └── Customer_Shoping_Behavior_Analysis.ipynb
+│   │
+│   ├── 📁 sql/
+│   │   ├── schema_creation.sql
+│   │   ├── buisness_problems.sql
+│   │   └── views_creation_query.sql
+│   │
+│   └── 📁 scripts/                 # (New - for reusable Python scripts)
 │
-├── 📁 powerbi/
-│   ├── dashboard.pbix
-│   └── data_model_documentation.md
+├── 📁 04_reporting/
+│   ├── 📁 presentations/
+│   │   └── Customer-Shopping-Behavior-Analysis.pptx
+│   │
+│   ├── 📁 dashboards/
+│   │   └── customer_behavour_analyisis.pbix
+│   │
+│   └── 📁 visualizations/
+│       └── PowerBi_Dash_Board.png
 │
-├── 📁 reports/
-│   ├── executive_summary.pdf
-│   └── technical_documentation.md
+├── 📁 05_deliverables/
+│   ├── Customer Shopping Behavior Analysis.pdf
+│   └── insights_summary.md
 │
-├── 📁 src/
-│   ├── data_preprocessing.py
-│   └── visualization_utils.py
-│
-├── requirements.txt
-├── project_roadmap.md
-└── README.md
+├── README.md                       # Your existing readme
+├── project_roadmap.md              # (New)
+└── requirements.txt                # (New - for Python dependencies)
 ```
 
 ---
