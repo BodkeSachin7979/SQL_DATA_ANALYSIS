@@ -7,6 +7,8 @@
 A comprehensive retail analytics pipeline transforming **3,900+ transactions** into actionable business intelligence. This project demonstrates full-spectrum data skills from raw data processing to executive dashboarding, delivering insights that drive strategic decisions in marketing, pricing, and customer retention.
 
 ---
+![project anner]()
+
 
 ## 📊 **Dataset Characteristics**
 
@@ -220,9 +222,10 @@ This project demonstrates proficiency in:
 
 **Want to discuss this project or explore collaboration opportunities?**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Projects-black)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bodkesachin7979.github.io/BodkeSachin7979/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinbodke/)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinbodke.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BodkeSachin7979)
 
 ---
 **📄 License:** MIT  
@@ -232,5 +235,3 @@ This project demonstrates proficiency in:
 
 *This project is part of a portfolio demonstrating data analytics capabilities. All insights are based on simulated retail data for educational purposes.*
 ```
-
-This markdown file is ready to be saved as `README.md` in your project repository. It includes proper formatting, badges, tables, code blocks, and all the sections you specified.
