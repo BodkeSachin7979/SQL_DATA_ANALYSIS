@@ -98,8 +98,9 @@ ORDER BY segment_revenue DESC;
 - **Operational Metrics**: Shipping efficiency, discount utilization
 - **Drill-through Capabilities**: Hierarchical navigation from summary to detail
   
-### 📊 Presentation
-👉 [Click to Download the PPT](presentation.pptx)
+### **Phase 4:  Presentation (Power Point Template)** 
+👉 [Click to Download the PPT](https://github.com/BodkeSachin7979/SQL_DATA_ANALYSIS/blob/master/customer_trends_data_analaysis/Customer-Shopping-Behavior-Analysis.pptx)
+1[]()
 
 ---
 
