@@ -5,6 +5,8 @@
 A complete SQL-based Library Management System showcasing **database design**, **CRUD operations**, **advanced SQL queries**, **CTAS**, and **stored procedures**.
 Designed as an **industry-style portfolio project** demonstrating real-world database skills.
 
+![](https://github.com/BodkeSachin7979/SQL_DATA_ANALYSIS/blob/master/3Library_management/library%20management.jpg)
+
 ---
 
 ## 🚀 **Project Overview**
