@@ -7,7 +7,7 @@
 A comprehensive retail analytics pipeline transforming **3,900+ transactions** into actionable business intelligence. This project demonstrates full-spectrum data skills from raw data processing to executive dashboarding, delivering insights that drive strategic decisions in marketing, pricing, and customer retention.
 
 ---
-![project anner]()
+![project anner](https://github.com/BodkeSachin7979/SQL_DATA_ANALYSIS/blob/master/customer_trends_data_analaysis/shopping%20behavior.jpg)
 
 
 ## 📊 **Dataset Characteristics**
@@ -97,6 +97,9 @@ ORDER BY segment_revenue DESC;
 - **Product Performance**: Top/N-bottom analysis, rating distribution
 - **Operational Metrics**: Shipping efficiency, discount utilization
 - **Drill-through Capabilities**: Hierarchical navigation from summary to detail
+  
+### 📊 Presentation
+👉 [Click to Download the PPT](presentation.pptx)
 
 ---
 
