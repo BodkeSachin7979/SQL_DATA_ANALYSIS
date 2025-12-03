@@ -99,9 +99,8 @@ ORDER BY segment_revenue DESC;
 - **Drill-through Capabilities**: Hierarchical navigation from summary to detail
   
 ### **Phase 4:  Presentation (Power Point Template)** 
-👉 [Click to Download the PPT](https://github.com/BodkeSachin7979/SQL_DATA_ANALYSIS/blob/master/customer_trends_data_analaysis/Customer-Shopping-Behavior-Analysis.pptx)
-1[]()
-
+![](https://github.com/BodkeSachin7979/SQL_DATA_ANALYSIS/blob/master/customer_trends_data_analaysis/ppt%20banner.png)
+👉 [Download the PPT](https://github.com/BodkeSachin7979/SQL_DATA_ANALYSIS/blob/master/customer_trends_data_analaysis/Customer-Shopping-Behavior-Analysis.pptx)
 ---
 
 ## 📈 **Key Insights & Business Impact**
